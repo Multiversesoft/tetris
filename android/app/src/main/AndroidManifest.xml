@@ -13,7 +13,7 @@
         android:allowBackup="false"
         android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@mipmap/ic_launcher"
-        android:label="Tetris"
+        android:label="Falling Blocks"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:name=".MainActivity"
